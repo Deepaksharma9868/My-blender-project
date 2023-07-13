@@ -1,0 +1,139 @@
+# Blender MTL File: 'Sword.blend'
+# Material Count: 13
+
+newmtl Arissa_MAT
+Ns 430.769251
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Blender files\\home\\app\\mixamo-mini\\tmp\\skins_0642044e-eeea-49a5-ae4b-9cbfa3569518.fbm\\Arissa_NM_normal.png
+map_Kd D:\\Blender files\\home\\app\\mixamo-mini\\tmp\\skins_0642044e-eeea-49a5-ae4b-9cbfa3569518.fbm\\Arissa_DIFF_diffuse.png
+map_Ks D:\\Blender files\\home\\app\\mixamo-mini\\tmp\\skins_0642044e-eeea-49a5-ae4b-9cbfa3569518.fbm\\Arissa_SPEC_specular.png
+
+newmtl Blade
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Depth_Volume
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl DustParticles
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 3.000000 3.000000 3.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.250000
+illum 1
+
+newmtl Gaurd
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.206400 0.120000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Handle
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Files And Texture\\swordInTheStone_downloadFiles_part2\\textures\\leatherCord.jpg
+
+newmtl LazyFireMaterial
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Pommel
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.206400 0.120000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl rockA
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Projects\\blender\\blender101.2\\publish\\downloads\\starterKit\\Rocks\\_textures\\rockA\\Normal_sharpen_1k.jpg
+map_Kd D:\\Projects\\blender\\blender101.2\\publish\\downloads\\starterKit\\Rocks\\_textures\\rockA\\BaseColor_sharpen_1k.jpg
+
+newmtl rockB
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.250000 D:\\Projects\\blender\\blender101.2\\publish\\downloads\\starterKit\\Rocks\\_textures\\rockB\\Normal_sharpen_1k.jpg
+
+newmtl rockC
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.250000 D:\\Projects\\blender\\blender101.2\\publish\\downloads\\starterKit\\Rocks\\_textures\\rockC\\Normal_sharpen_1k.jpg
+
+newmtl rockD
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.250000 D:\\Projects\\blender\\blender101.2\\publish\\downloads\\starterKit\\Rocks\\_textures\\rockD\\Normal_sharpen_1k.jpg
